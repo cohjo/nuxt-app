@@ -17,12 +17,15 @@ onMounted(() => {
 * {
   box-sizing: border-box;
 }
+
 html {
   height: 100%;
 }
+
 #__nuxt {
   height: 100%;
 }
+
 body {
   --tw-bg-opacity: 1;
   background-color: rgb(30 41 59 / var(--tw-bg-opacity));
